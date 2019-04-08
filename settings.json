@@ -1,0 +1,9 @@
+{
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\cmd.exe",
+    "python.pythonPath": "C:/Python37-32/python.exe",
+    "diffEditor.renderSideBySide": false,
+    "python.linting.enabled": true,
+    "git.autofetch": true
+}
